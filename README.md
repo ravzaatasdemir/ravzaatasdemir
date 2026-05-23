@@ -1,6 +1,6 @@
 # Ravzanur Taşdemir
 
-2nd-year AI & Data Engineering student at Akdeniz University.  
+1st-year AI & Data Engineering student at Akdeniz University.  
 Embedded software developer at [Tufan Electric Vehicle Team](https://github.com/TFN-Software-Team).
 
 ## What I'm working on
