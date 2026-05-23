@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ravzanur Taşdemir
 
-<!--
-**ravzaatasdemir/ravzaatasdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd-year AI & Data Engineering student at Akdeniz University.  
+Embedded software developer at [Tufan Electric Vehicle Team](https://github.com/TFN-Software-Team).
 
-Here are some ideas to get you started:
+## What I'm working on
+- LoRa-based telemetry firmware on STM32 (embedded C, HAL)
+- Multi-agent reinforcement learning — CybORG environment (cyborg-marl)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+AI × Cybersecurity — specifically AI Agent Security
+
+## Skills
+`Embedded C` `STM32` `Python` `Java` `Git`
+
+## Contact
+ravzaatasdemir1@outlook.com
